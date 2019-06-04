@@ -68,4 +68,8 @@ Multitier Stack Machine (nSM) simply means "a stack machine within a stack machi
 
 The core JavaScript stack machine function F() is about 50 lines, not including repeated patterns and library code. It can do Ajax, with a PHP back end running an almost identical stack machine.
 
-I have also implementations in Python, C, C++. The 5GL core should be portable to any programming language. I am working on Kotlin,  Haskell and Rust port now.
+We have also implementations in Python, C, C++. The 5GL core should be portable to any programming language. We are working on Kotlin,  Haskell and Rust port now.
+
+While the solution for the line plane intersection above can be implemented in any computer programming language of choice, we will be using a Forth like RPN language, to highlight the following:
+
+(a) the programmer (YOU) can compare various issues amongst implementations in different programming languages
