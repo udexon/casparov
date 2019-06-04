@@ -50,3 +50,7 @@ d =
  p0  n dot  l0 n dot -
  l  n dot  div
  ```
+
+For the young programmers usually excited by topics on Reddit /r/programming and https://www.reddit.com/r/ProgrammingLanguages/ writing a program to derive the solution (after being) GIVEN the line and plane equations in RPN is perhaps no more difficult than a weekly assignment in a first year university programming course.
+
+The most difficult part has already been done -- to know that algebraic equations CAN be solved using RPN.
