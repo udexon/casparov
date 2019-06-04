@@ -1,4 +1,4 @@
-CASPAROV: Computer Algebra System using Reverse Polish Notation
+## CASPAROV: Computer Algebra System using Reverse Polish Notation
 
 Computer Algebra System and Reverse Polish Notation, two terms that predates the birth of most programmers today.
 
