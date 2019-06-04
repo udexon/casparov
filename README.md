@@ -1,5 +1,7 @@
 ## CASPAROV: Computer Algebra System using Reverse Polish Notation
 
+### 1.0 Introduction
+
 Computer Algebra System and Reverse Polish Notation, two terms that predates the birth of most programmers today.
 
 John Harrison's HOL Light https://www.cl.cam.ac.uk/~jrh13/hol-light/ provides easy to follow instructions into the world of computer algebra system (CAS).
@@ -17,7 +19,7 @@ Perhaps the less demanding introduction to CAS would be Python Sympy. Yet, reade
 CASPAROV is able to break down CAS to simple steps like the commutative, associative and distributive laws, which will serve as our introduction.
 
 
-### Line Plane Intersection
+### 2.0 Line Plane Intersection
 
 https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection
 
