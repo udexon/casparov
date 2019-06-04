@@ -74,7 +74,7 @@ While the solution for the line plane intersection above can be implemented in a
 
 (a) the programmer (YOU) can compare various issues amongst implementations in different programming languages;
 
-(b) RPN can be a unifying script for all programming languages;
+(b) RPN can be a unifying script for all programming languages and computer algebra systems;
 
 (c) to serve as a modern implementation of RPN to enable young programmers to learn Forth and related implementations;
 
