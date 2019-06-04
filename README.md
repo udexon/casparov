@@ -22,3 +22,31 @@ CASPAROV is able to break down CAS to simple steps like the commutative, associa
 https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection
 
 Line plane intersection is perhaps one of the most commonly used but under-appreciated equations in games and animation. It is used for collision detection, i.e. to calculate the time at which an object travelliing with a constant velocity hits a plane.
+
+The Algebraic Form section https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection#Algebraic_form of the Wikipedia page gives a concise and clear solution to the problem.
+
+The equations expressed in reverse Polish notation is given below:
+
+```
+p p0 - n = 0
+p = d l + l0
+find d
+
+p = d l * l0 +
+p p0 - n dot = 0
+
+
+ d l * l0 + p0 - n dot = 0
+ d l * l0 + n dot - p0 n dot = 0
+
+d l *  n dot
+ l0  n dot + = p0 n dot
+
+
+d l *  n dot =
+ p0  n dot  l0 n dot -
+
+d =
+ p0  n dot  l0 n dot -
+ l  n dot  div
+ ```
