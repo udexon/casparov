@@ -19,6 +19,7 @@ Perhaps the less demanding introduction to CAS would be Python Sympy. Yet, reade
 CASPAROV is able to break down CAS to simple steps like the commutative, associative and distributive laws, which will serve as our introduction.
 
 
+
 ### 2.0 Line Plane Intersection
 
 https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection
@@ -59,7 +60,12 @@ The most difficult part has already been done -- to know that algebraic equation
 
 
 
-### 2.1 Multitier Stack Machine
+### 2.1 Multitier Stack Machine (nSM)
 
 http://5gl.epizy.com/nsm/fgl.html?i=1
 
+Multitier Stack Machine (nSM) simply means "a stack machine within a stack machine .... (repeat up to N times)" . It is so named because the initial implementations of nSM are coded in PHP and JavaScript, whose interpreters are themselves stack machines.
+
+The core JavaScript stack machine function F() is about 50 lines, not including repeated patterns and library code. It can do Ajax, with a PHP back end running an almost identical stack machine.
+
+I have also implementations in Python, C, C++. The 5GL core should be portable to any programming language. I am working on Kotlin,  Haskell and Rust port now.
