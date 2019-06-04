@@ -17,5 +17,8 @@ Perhaps the less demanding introduction to CAS would be Python Sympy. Yet, reade
 CASPAROV is able to break down CAS to simple steps like the commutative, associative and distributive laws, which will serve as our introduction.
 
 
+### Line Plane Intersection
 
+https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection
 
+Line plane intersection is perhaps one of the most commonly used but under-appreciated equations in games and animation. It is used for collision detection, i.e. to calculate the time at which an object travelliing with a constant velocity hits a plane.
