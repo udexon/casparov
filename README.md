@@ -72,4 +72,9 @@ We have also implementations in Python, C, C++. The 5GL core should be portable 
 
 While the solution for the line plane intersection above can be implemented in any computer programming language of choice, we will be using a Forth like RPN language, to highlight the following:
 
-(a) the programmer (YOU) can compare various issues amongst implementations in different programming languages
+(a) the programmer (YOU) can compare various issues amongst implementations in different programming languages;
+
+(b) RPN can be a unifying script for all programming languages;
+
+(c) to serve as a modern implementation of RPN to enable young programmers to learn Forth and related implementations;
+
