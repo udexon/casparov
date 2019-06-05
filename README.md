@@ -99,3 +99,5 @@ On the other hand, stack machine has become the interpreter engine of numerous m
 Although many features of Forth have been highlighted in Reddit /r/Forth and comp.lang.forth, not much discussions have been given to data structure, and it seems to be a taboo to use variables in Forth. 
 
 In CASPAROV, we propose a generic tree structure of associative array to represent variables, including high level data structures. 
+
+As tree is the fundamental structure to represent code (RPN) as well as data, we believe that investigation into the foundations of mathematics, beginning with algebraic equations, using RPN and tree, will be an interesting adventure that is accessible to audience who are conventionally not familiar with abstract mathematics.
