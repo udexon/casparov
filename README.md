@@ -83,3 +83,5 @@ While the solution for the line plane intersection above can be implemented in a
 One is naturally attracted to the simplicity and elegance of graph theory, upon encountering the Forth programming language. Various online Forth websites and free software for desktop and mobile phone (GNU Forth) can be downloaded for trials.
 
 However, for various historical reasons, Forth has fallen by way side other programming languages dominated the modern desktop and mobile programming environments. The lack of web and mobile related libraries in Forth has made it less attractive to new comers, resulting in a chicken and egg situation.
+
+Built on top of nSM, CASPAROV incorporates the native libraries of the host programming languages, thus enabling programmers to familiarize with RPN in modern desktop and mobile environments.
