@@ -92,4 +92,5 @@ As free software and Chinese manufacturing have enabled the software and hardwar
 
 ### 2.3 Limitations of RPN and Stack Machine
 
-During the phase of rapid growth of free software circa 2000s, Forth has established itself in high end technical market and low end hardware segment, resulting in a lack of Forth open source projects compared to other programming languages.
+During the phase of rapid growth of free software circa 2000s, Forth has established itself in high end technical market and low end hardware segment, resulting in a lack of Forth open source projects compared to other programming languages. Specifically, there have been a shortage of Forth sample projects employing high level data structures, such as database, GUI and web based applications. 
+
