@@ -94,3 +94,6 @@ As free software and Chinese manufacturing have enabled the software and hardwar
 
 During the phase of rapid growth of free software circa 2000s, Forth has established itself in high end technical market and low end hardware segment, resulting in a lack of Forth open source projects compared to other programming languages. Specifically, there have been a shortage of Forth sample projects employing high level data structures, such as database, GUI and web based applications. 
 
+On the other hand, stack machine has become the interpreter engine of numerous modern programming languages, such as Java, JavaScript, PHP etc. Based on these programming languages, many high level data structures have been developed. 
+
+Although many features of Forth have been highlighted in Reddit /r/Forth and comp.lang.forth, not much discussions have been given to data structure, and it seems to be a taboo to use variables in Forth. 
