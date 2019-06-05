@@ -87,3 +87,5 @@ However, for various historical reasons, Forth has fallen by way side as other p
 Built on top of nSM, CASPAROV incorporates the native libraries of the host programming languages, thus enabling programmers to familiarize with RPN in modern desktop and mobile environments.
 
 While progresses in electronic technologies and free software have enabled fully functional computers packaged as mobile phones that are almost affordable to everyone on Earth, it would be interesting to find out if Earl Bertrand Russell, perhaps the most influential mathematician in modern times, could have envisaged the possibility that the men of the street might use a mobile phone to explore the foundations of mathematics, as he lived long enough to see his own discoveries being applied in the earliest generations computers. 
+
+As free software and Chinese manufacturing have enabled the software and hardware of the magical computer to reach the men of the street, there remains only a language that can be easily understood to enable them begin to explore Earl Russell's realm, a dream that perhaps the most accomplished Communist in the history of mankind would foster.
