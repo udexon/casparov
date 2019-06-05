@@ -85,3 +85,5 @@ One is naturally attracted to the simplicity and elegance of graph theory, upon 
 However, for various historical reasons, Forth has fallen by way side as other programming languages dominated the modern desktop and mobile programming environments. The lack of web and mobile related libraries in Forth has made it less attractive to new comers, resulting in a chicken and egg situation.
 
 Built on top of nSM, CASPAROV incorporates the native libraries of the host programming languages, thus enabling programmers to familiarize with RPN in modern desktop and mobile environments.
+
+While progresses in electronic technologies and free software have enabled fully functional computers packaged as mobile phones that are almost affordable to everyone on Earth, it would be interesting to find out if Earl Bertrand Russell, perhaps the most influential mathematician in modern times, could have envisaged the possibility that the men of the street might use a mobile phone to explore the foundations of mathematics, as he lived long enough to see his own discoveries being applied in the earliest generations computers. 
